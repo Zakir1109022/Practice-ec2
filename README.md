@@ -1,0 +1,1 @@
+Practice to connect EC2
